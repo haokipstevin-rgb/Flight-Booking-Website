@@ -54,31 +54,12 @@ You can replace this image with one from **Manipur** (like Loktak Lake, Kangla F
 
 ---
 
-## ⚙️ How to Use
 
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/FlyManipur.git
-Open the project folder:
-
-bash
-Copy code
-cd FlyManipur
-Open index.html in your browser.
-
-📸 Preview
-
-🚀 Next Steps
-Add JavaScript for tab switching (Flight / Hotel / Car)
-
-Add date pickers and form validation
-
-Implement backend for real booking (optional)
 
 🧑‍🎨 Credits
 Design Inspiration: Dribbble UI Mockup
 
-Developer: [Your Name Here]
+Developer: CodeDiva
 
 Location Concept: Manipur, India 🇮🇳
 
@@ -87,5 +68,3 @@ This project is open source and available under the MIT License.
 
 💙 FlyManipur — Dream, Travel, Explore.
 
-yaml
-Copy code
